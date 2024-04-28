@@ -1,0 +1,54 @@
+h1{
+    color: aliceblue;
+}
+button{
+    color: aliceblue;
+    margin: 20px;
+}
+
+.stay{
+    margin-top: 40px;
+    height: 500px;
+    width: 700px;
+    margin-left: 40px;
+}
+.get{
+    color: #FFB000;
+    margin-left: 900px;
+    font-size: 40px;
+    margin-top: -510px;
+    font-weight: bold;
+}
+
+
+
+.what{
+    border-radius: 50%;
+   display: flex;
+    height: 50px;
+    margin-left: 800px;
+    padding: 10px 10px;
+    margin-top: 10px;
+    
+    
+
+}
+.details{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    padding: 10px 10px;
+    flex-direction: right;
+    margin-left: 900px;
+    margin-top: -70px;
+    
+    
+    
+    
+}
+
+
+
+
+    

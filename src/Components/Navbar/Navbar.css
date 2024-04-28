@@ -1,0 +1,229 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: black;
+}
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 3px solid white;
+    
+    height: 100px;
+    margin: 10px 10px;
+
+   
+    transition: box-shadow 450ms ease-in-out, color 250ms ease-in-out;
+    box-shadow: 0 0 10px 10px rgb(41, 20, 231);
+
+}
+.pm{
+    color: rgb(206, 29, 130);
+    font-size: 60px;
+    margin-left: -280px;
+
+    
+}
+.pp{
+    color: #FFB000;
+    font-size: 60px;
+    margin-left: -280px;
+    
+    
+}
+.dash{
+    color:rgb(206, 29, 130);
+    font-size: 60px;
+    margin-left: -280px;
+    
+}
+
+
+
+.navbar nav ul{
+   display: flex;
+   margin-right: 50px;
+   
+   
+    
+}
+.navbar nav ul{
+    display: flex;
+    margin-right: 50px;
+    
+    
+     
+ }
+
+ul {
+    border: 2px solid white;
+ }
+.navbar nav ul li{
+    list-style-type: none;
+}
+
+.navbar nav ul li a{
+    text-decoration: none;
+    color: #FFB000;
+    font-size: 20px;
+    background:black;
+    border-radius: 0px;
+    padding: 10px 15px;
+    margin: 0 15px;
+    border: solid 1px white;
+
+}
+.navbar nav ul li a:hover{
+    transition: box-shadow 450ms ease-in-out, color 250ms ease-in-out;
+    box-shadow: 0 0 10px 10px rgb(206, 29, 130);
+}
+
+.icon{
+    color: rgb(206, 29, 130);
+    
+}
+
+
+
+
+
+
+footer{
+   height: 300px;
+    place-items: center;
+    border: solid 5px rgb(206, 29, 130);
+    background: rgb(137, 84, 114);
+    margin: 10px 0px;
+    
+ 
+
+}
+.quo{
+    font-size: 30px;
+    color: black;
+    background-color: rgb(143, 82, 117);
+    margin-left: 400px;
+    margin-top: 30px;
+}
+footer li{
+    
+    background-color: rgb(143, 82, 117);
+    
+    list-style-type: none;
+    margin-left: 300px;
+    font-weight: bold;
+    
+    
+
+}
+.ab{
+    background-color: rgb(143, 82, 117);
+    border: rgb(143, 82, 117);
+    float: left;
+    color: black;
+    font-size: 30px;
+    
+    
+   
+
+
+}
+footer a{
+    background-color: black;
+    color: white;
+    width: 100px;
+
+    text-decoration: none;
+    
+    font-size: 20px;
+    background:black;
+    border-radius: 0px;
+    padding: 10px 15px;
+    margin: 0 15px;
+    border: solid 1px white;
+}
+
+.mee{
+    width: 420px;
+    float: right;
+    margin-right: 200px;
+    background-color: rgb(143, 82, 117);
+    color: black;
+    border: black solid 3px;
+    font-weight: bold;
+    
+}
+.phn{
+    background-color: rgb(143, 82, 117);
+    color: black;
+    margin-left: 400px;
+    font-size: 30px;
+    margin-top: -150px;
+}
+.no{
+    background-color: rgb(143, 82, 117);
+    color: black;
+    margin-left: 400px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.icons{
+    margin-top: 50px;
+    background-color: #FFB000;
+}
+
+.icons.li{
+    background-color: #FFB000;
+    color: black;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    border: 5px solid white;
+    height: 180px;
+    width: 180px;
+    margin-right: 10px;
+    display: grid;
+    place-items: center;
+    
+}
+
+
+.girl{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 80px;
+    z-index: 0;
+
+    
+}
+
+
+
+.fa-brands{
+    background-color: rgb(143, 82, 117);
+    margin-top: 50px;
+    margin: 30px;
+    
+    
+}
+.lin{
+    background-color: rgb(143, 82, 117);
+    font-size: 40px;
+    margin-top: 0px;
+    display: flex;
+}
+
+.nec{
+    color: black;
+    font-size: 30px;
+    background-color: rgb(143, 82, 117);
+    margin-left: 500px;
+}
